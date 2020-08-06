@@ -354,6 +354,10 @@ hr:after {
   width: 1400px;
 }
 
+#email-link {
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 1680px) {
   .container {
     width: 1200px;
@@ -3271,8 +3275,4 @@ body.homepage.is-preload #header:after {
   .carousel article .image {
     margin-bottom: 2em;
   }
-}
-
-#email-link {
-  text-decoration: underline;
 }
