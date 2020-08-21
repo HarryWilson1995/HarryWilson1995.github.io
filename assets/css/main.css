@@ -2753,6 +2753,13 @@ body.homepage.is-preload #header:after {
   text-align: center;
 }
 
+/* Videos */
+#video-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
 /* Wide */
 
 @media screen and (max-width: 1680px) {
