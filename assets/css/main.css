@@ -2760,6 +2760,13 @@ body.homepage.is-preload #header:after {
   margin-bottom: 2rem;
 }
 
+/* Link Container */
+#link-container {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
 /* Wide */
 
 @media screen and (max-width: 1680px) {
